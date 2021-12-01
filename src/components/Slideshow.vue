@@ -145,7 +145,7 @@
 		min-width: var(--dot-size);
 		min-height: var(--dot-size);
 		display: block;
-		background: blue;
+		background: rgb(122, 122, 122);
 		border-radius: 100%;
 	}
 
